@@ -8,6 +8,7 @@
 - **Language** : Java
 - **Build** : Maven
 - **JDK** : JDK 1.8
+- **IDE** : IntelliJ
 - **Server** : Tomcat/9.0.95
 - **Database** : MariaDB
 - **Development** : CSS, HTML5, JSP
