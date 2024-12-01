@@ -22,4 +22,5 @@
 6. 와이파이 북마크에 추가 및 삭제 기능 구현
 
 ## 📝ERD
-![ERD_강희진](https://github.com/user-attachments/assets/01692313-1452-4d74-99ad-93b847fcb680)
+![ERD_강희진](https://github.com/user-attachments/assets/26319ac6-8bc1-4ebf-bd93-86e6f700e32e)
+
